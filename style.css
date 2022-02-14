@@ -1,0 +1,55 @@
+h1{
+    color: blue;
+}
+.connection
+{
+    color: chartreuse;
+    }
+    .inscription
+    {
+        color: aquamarine;
+    }
+
+    .confiance
+
+{
+    color: red;
+    }
+    #Conteneur{
+        display: flex;
+        text-align: center;
+        justify-content: left;
+        border-radius:  50%;
+    }
+        .Sconteneur{
+        width: 50%;
+        }
+    .Sconteneur:nth-child (1)   
+{
+    font-size: 20px;
+    border-style: 50%;
+    }
+    .bouton
+    { 
+        font-size: 20px;
+        color: blue;
+        border-radius: 50% ;
+        }
+    .txt: focus
+    { color: red;   
+        .Sconteneur:nth-child (2)   
+    {
+    color: blue;
+    }
+body{
+    background: yellow;
+    }
+
+.bouton{
+    color:black;
+    }
+    .inscription{
+    text-align: center;
+    }
+
+
